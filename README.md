@@ -97,7 +97,7 @@ This project is **open-source** under the **MIT License**.
 Contributions are welcome! Feel free to **fork** this repo and submit a PR.
 
 ## 📩 Contact
-For any queries, reach out to me at **your-email@example.com**
+For any queries, reach out to me at **armstersaha8@gmail.com**
 
 ---
 🚀 **Let's build a smarter, AI-powered healthcare system!** 🔥
